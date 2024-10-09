@@ -15,3 +15,6 @@
 
 ## 效果预览
 ![image](https://github.com/user-attachments/assets/5dc339b1-6320-478c-9eed-046edc3fad8b)
+
+##示例工作流
+![示例](https://github.com/user-attachments/assets/4022a595-407d-4b4d-8b0a-10065a822018)
